@@ -1,0 +1,18 @@
+﻿  BadFoodGame.cpp
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\Balloon.h(17,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(102,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(102,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(106,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(147,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(147,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(174,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(174,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(197,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(197,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(287,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(292,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(399,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(417,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(495,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Documents\CSC3222 - Game Sims\CSC3222\CSC3222Coursework 2019 2020\BadFoodGame.cpp(512,23): warning C4018: '<': signed/unsigned mismatch
+  CSC3222 2019.vcxproj -> C:\Users\Owner\Documents\CSC3222 - Game Sims\Win32\Debug\CSC3222 2019.exe
